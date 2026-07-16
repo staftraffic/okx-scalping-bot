@@ -52,9 +52,9 @@ module.exports = {
    ```
 3. Create a `.env` file with your OKX API credentials:
    ```
-   OKX_API_KEY=your_api_key_here
-   OKX_SECRET_KEY=your_secret_key_here
-   OKX_PASSPHRASE=your_passphrase_here
+   OKX_API_KEY=d9a5ce91-6d65-4d12-9bf3-60c2d3c1b157
+   OKX_SECRET_KEY=19B5E4CFB3811730D02FFC4C6CB148A2
+   OKX_PASSPHRASE=staff187187STAFF@$
    ```
 4. Configure your strategy in `config.js`
 5. Start the bot:
